@@ -15,7 +15,6 @@ appreciation () {
 } 
  
 
-
 echo "saisi votre notee :" 
 read -r note 
 appreciation
